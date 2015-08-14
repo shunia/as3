@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="me.shunia.components.Scroller_old"/>
+    <classEntry path="me.shunia.components.PropConfig"/>
+    <classEntry path="me.shunia.components.Divider"/>
+    <classEntry path="me.shunia.components.Drag"/>
+    <classEntry path="me.shunia.components.CompEvents"/>
+    <classEntry path="me.shunia.components.Clip"/>
+    <classEntry path="me.shunia.components.Scroller"/>
+    <classEntry path="me.shunia.components.ScrollerBar"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
