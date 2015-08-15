@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="me.shunia.smedia.core.MediaManager"/>
+    <classEntry path="com._17173.flash.player.conf.SoundConf"/>
+    <classEntry path="me.shunia.smedia.core.interfaces.IMediaManager"/>
+    <classEntry path="me.shunia.smedia.core.interfaces.IMedia"/>
+    <classEntry path="me.shunia.smedia.core.interfaces.IMediaConf"/>
+    <classEntry path="me.shunia.smedia.core.interfaces.IMediaInfo"/>
+    <classEntry path="me.shunia.smedia.core.BaseMedia"/>
+    <classEntry path="me.shunia.smedia.core.interfaces.IMediaPlugin"/>
+    <classEntry path="me.shunia.smedia.core.MediaConf"/>
+    <classEntry path="me.shunia.smedia.core.video.VideoMedia"/>
+    <classEntry path="me.shunia.smedia.core.audio.AudioMedia"/>
+    <classEntry path="me.shunia.smedia.core.MediaInfo"/>
+    <classEntry path="me.shunia.smedia.SAudio"/>
+    <classEntry path="me.shunia.smedia.SVideo"/>
+    <classEntry path="me.shunia.smedia.core.video.VideoResponse"/>
+    <classEntry path="me.shunia.smedia.core.video.VideoUrlParser"/>
+    <classEntry path="me.shunia.smedia.core.video.VideoStatus"/>
+    <classEntry path="me.shunia.smedia.core.interfaces.IMediaResponse"/>
+    <classEntry path="me.shunia.smedia.core.conf.VideoConf"/>
+    <classEntry path="me.shunia.smedia.core.video.VideoConfProps"/>
+    <classEntry path="me.shunia.smedia.core.video.VideoInfoProps"/>
+    <classEntry path="me.shunia.smedia.core.video.VideoMediaInfo"/>
+    <classEntry path="me.shunia.smedia.core.video.VideoMediaConf"/>
+    <classEntry path="me.shunia.smedia.core.video.VideoDisplay"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
